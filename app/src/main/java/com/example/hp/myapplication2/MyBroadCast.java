@@ -7,6 +7,8 @@ import android.os.BatteryManager;
 
 public class MyBroadCast extends BroadcastReceiver {
 
+
+
     @Override
     public void onReceive(Context context, Intent intent) {
         // TODO: This method is called when the BroadcastReceiver is receiving
